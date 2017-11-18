@@ -2,7 +2,7 @@
 
 **Enthält meine Konfigurationsdateien**
 
-* .alias  
+* .bash_aliases 
 * .bash_logout  
 * .bashrc  
 * .gitconfig  
@@ -15,4 +15,3 @@
 * loeppi.desktop  
 * pip.conf  
 * terminator.conf  
-* tint2.rc  
