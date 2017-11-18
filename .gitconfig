@@ -1,0 +1,16 @@
+[user]
+	email = loeppi@gmx.de
+	name = Frank Loepthien
+
+[core]
+	editor = vim
+
+[merge]
+	tool = meld
+	
+[push]
+	default = simple
+
+[alias]
+    flog = log --graph --pretty=format:'%C(red bold)%h%C(reset) - %C(bold)%d%Creset %s %C(green)(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+
